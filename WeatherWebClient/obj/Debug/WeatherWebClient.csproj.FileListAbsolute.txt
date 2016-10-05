@@ -1,0 +1,14 @@
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\bin\Debug\WeatherWebClient.exe.config
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\obj\Debug\WeatherWebClient.csprojResolveAssemblyReference.cache
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\obj\Debug\WeatherWebClient.Form1.resources
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\obj\Debug\WeatherWebClient.Properties.Resources.resources
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\obj\Debug\WeatherWebClient.csproj.GenerateResource.Cache
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\bin\Debug\WeatherWebClient.exe
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\bin\Debug\WeatherWebClient.pdb
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\obj\Debug\WeatherWebClient.exe
+c:\users\panos\documents\visual studio 2015\Projects\WeatherWebClient\WeatherWebClient\obj\Debug\WeatherWebClient.pdb
+C:\Users\panos\Documents\Visual Studio 2015\Projects\WeatherWebClient\WeatherWebClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\panos\Documents\Visual Studio 2015\Projects\WeatherWebClient\WeatherWebClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\panos\Desktop\project\WeatherWebServices\WeatherWebClient\bin\Debug\WeatherWebClient.exe.config
+C:\Users\panos\Desktop\project\WeatherWebServices\WeatherWebClient\obj\Debug\WeatherWebClient.exe
+C:\Users\panos\Desktop\project\WeatherWebServices\WeatherWebClient\obj\Debug\WeatherWebClient.pdb
